@@ -1,3 +1,4 @@
+<b>From the project root!</b>
 1. Install dependencies:<br>
 <b>pip install -r requirements.txt</b><br>
 3. Fill in the following fields in the config:<br>
